@@ -60,7 +60,7 @@ There's a [README](https://github.com/apache/dubbo-samples/tree/master/dubbo-sam
 </dependencies>
 ```
 
-### Define service interfaces
+### Define service interfaces 
 
 ```java
 package org.apache.dubbo.samples.api;
